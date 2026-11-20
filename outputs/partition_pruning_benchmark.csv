@@ -1,0 +1,7 @@
+scenario,run_no,elapsed_sec,order_count,item_count,revenue
+without_partition,1,0.256563,157,394,38455000.0
+without_partition,2,0.354744,157,394,38455000.0
+without_partition,3,0.311612,157,394,38455000.0
+with_partition,1,0.261387,157,394,38455000.0
+with_partition,2,0.254987,157,394,38455000.0
+with_partition,3,0.205215,157,394,38455000.0

@@ -1,0 +1,10 @@
+scenario,run_no,elapsed_sec,input_rows,output_rows,partitions,output_bytes
+shuffle_2,1,0.1725,1269,40,2,0
+shuffle_2,2,0.1853,1269,40,2,0
+shuffle_2,3,0.1856,1269,40,2,0
+shuffle_8,1,0.168,1269,40,8,0
+shuffle_8,2,0.2077,1269,40,8,0
+shuffle_8,3,0.1871,1269,40,8,0
+shuffle_32,1,0.2219,1269,40,32,0
+shuffle_32,2,0.2198,1269,40,32,0
+shuffle_32,3,0.2171,1269,40,32,0

@@ -1,30 +1,10 @@
-﻿# Python environment
-.venv/
-venv/
+﻿.venv/
 __pycache__/
-*.py[cod]
-
-# Environment variables and secrets
+*.pyc
 .env
-.env.*
-!.env.example
-
-# Raw datasets
+.ipynb_checkpoints/
+outputs/benchmark_tmp/
+*.crc
 data/source/*.csv
 db/orders_seed.csv
 
-# Jupyter temporary files
-.ipynb_checkpoints/
-
-# Spark temporary files
-spark-warehouse/
-metastore_db/
-derby.log/
-
-# Local object storage
-.minio-data/
-
-# OS and editor files
-.DS_Store
-Thumbs.db
-.vscode/

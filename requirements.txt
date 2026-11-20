@@ -1,0 +1,8 @@
+pyspark==4.0.1
+boto3==1.44.6
+python-dotenv==1.2.4
+notebook==7.6.5
+psycopg2-binary==2.9.13
+ipykernel==7.4.0
+pandas==3.1.1
+psycopg[binary]==3.3.9

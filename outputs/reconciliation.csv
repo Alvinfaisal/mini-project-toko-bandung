@@ -1,0 +1,5 @@
+metric,source_value,lake_value,diff,status
+total_orders,1062.0,1062.0,0.0,PASS
+total_items,2623.0,2623.0,0.0,PASS
+total_revenue,274070000.0,274070000.0,0.0,PASS
+rejected_rows,731.0,731.0,0.0,PASS

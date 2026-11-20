@@ -1,0 +1,4 @@
+scenario,median_elapsed_sec,input_rows,output_rows,partitions
+shuffle_2,0.1853,1269,40,2
+shuffle_8,0.1871,1269,40,8
+shuffle_32,0.2198,1269,40,32
